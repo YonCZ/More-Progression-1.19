@@ -1,0 +1,8 @@
+{
+  "parent": "moreprogression:block/orientable",
+  "textures": {
+    "top": "moreprogression:block/copper_furnace_top",
+    "front": "moreprogression:block/copper_furnace_front",
+    "side": "moreprogression:block/copper_furnace_side"
+  }
+}

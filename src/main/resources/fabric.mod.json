@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "moreprogression",
+  "version": "${version}",
+
+  "name": "More Progression",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "YonCZ"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/moreprogression/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "yoncz.more.progression.MoreProgression"
+    ]
+  },
+  "mixins": [
+    "moreprogression.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreprogression:enderite_block"
+    }
+  ],
+  "result": {
+    "item": "moreprogression:enderite_ingot",
+    "count": 9
+  }
+}

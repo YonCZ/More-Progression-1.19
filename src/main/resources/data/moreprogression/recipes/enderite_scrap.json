@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "moreprogression:beyond_debris"
+  },
+  "result": "moreprogression:enderite_scrap",
+  "experience": 20.0,
+  "cookingtime": 2000
+}

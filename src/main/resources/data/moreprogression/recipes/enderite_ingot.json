@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moreprogression:enderite_scrap"
+    },
+    {
+      "item": "moreprogression:enderite_scrap"
+    },
+    {
+      "item": "moreprogression:enderite_scrap"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    },
+    {
+      "item": "minecraft:shulker_shell"
+    }
+  ],
+  "result": {
+    "item": "moreprogression:enderite_ingot"
+  }
+}

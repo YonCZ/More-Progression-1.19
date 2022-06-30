@@ -1,0 +1,7 @@
+{
+  "parent": "moreprogression:block/cube_column",
+  "textures": {
+    "end": "moreprogression:block/beyond_debris_top",
+    "side": "moreprogression:block/beyond_debris_side"
+  }
+}
